@@ -67,6 +67,6 @@ Simply launch it via lein as per the example below
 
 ## License
 
-Copyright © 2013 Frederico Munoz
+Copyright © 2013 Frederico Munoz <fsmunoz@gmail.com>
 
 Distributed under the Eclipse Public License, the same as Clojure.
