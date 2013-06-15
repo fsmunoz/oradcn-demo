@@ -31,8 +31,6 @@
       (System/exit 0))
     [options args banner]))
 
-
-
 (defn- create-db-spec 
   "Returns a properly formated db spec - see clojure.java.jdbc/get-connection documentation"
   [host port sid user password]

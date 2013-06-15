@@ -37,7 +37,7 @@ Simply launch it via lein as per the example below
       -p, --port             1521                          The port to connect to                            
       -u, --user                                           Username                                          
       -p, --password                                       Password                                          
-      -d, --db                                             Database                                          
+      -s, --sid                                             Database                                          
       -l, --local-port       6666                          The local port that will be used for the callback 
       -q, --query            select * from DEMO_CUSTOMERS  The query used for registration                   
       -h, --no-help, --help  false                         Show help                                         
